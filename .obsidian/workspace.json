@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubectl.md",
+                "file": "Industria/Kubernetes/Minikube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kubectl"
+              "title": "Minikube"
             }
           },
           {
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minikube.md",
+                "file": "Industria/Kubernetes/Minikube.md",
                 "mode": "source",
                 "source": false
               },
@@ -222,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2522663b3e74e032",
+  "active": "49034732c9ca3fd8",
   "lastOpenFiles": [
-    "Minikube.md",
-    "kubectl.md",
+    "Industria/Kubernetes/kubectl.md",
+    "Industria/Kubernetes/Minikube.md",
     "Industria/Kubernetes/Kubernetes.md",
     "Industria/Kubernetes/YAML.md",
     "Industria/Kubernetes/Configuration.md",
