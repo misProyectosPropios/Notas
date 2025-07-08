@@ -1,0 +1,1 @@
+Es una herramienta Open Source en al que el Kubernetes corre tanto el nodo maestro como los worker nodes en la misma máquina. Este único nodo va a tener un docker conteiner runtime pre instalado

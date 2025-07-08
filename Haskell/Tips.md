@@ -1,0 +1,1 @@
+>_Protip_: Para correr un programa, podes o compilarlo y luego correr el archivo ejecutable haciendo   `ghc --make helloworld` y luego `helloworld` o podes correr el comando de Haskell `ghci archivo` y luego llamando a main `main` para ser ejecutado en el momento.
