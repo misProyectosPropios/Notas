@@ -130,3 +130,5 @@ Sea $f : \mathbb{N}^{m} \rightarrow \mathbb{N}$ una función parcial. Es equival
 	+ una cinta de entrada (solo de lectura)
 	+ una cinta de salida (solo de escritura)
 	+ una o varias cintas de trabajo, de lectura/escritura
+
+### [[SegundaClase]]
