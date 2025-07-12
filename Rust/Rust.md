@@ -17,15 +17,24 @@ fn nombre_funcion() {
  .\main # or ./main si no fuese windows
 ```
 
+Además, tiene un tipo fuerte estático de variables.
+Y tiene inferencia de tipos
 #### **Cargo**
 Para manejar los proyectos haciéndolos más complejos, se usa **Cargo**. Sirve para compartir el código entre varios, estandarizar directorios y correr el código más fácil.
 
+Genera un proyecto en la subcarpeta con el nombre del proyecto
+```bash
+cargo new nombre_proyecto
+```
+
+
+Genera el ejecutable en `target/debug`
 ```bash
 # En el directorio con el .toml, correr el siguiente código
 cargo build
 .\target\debug\hello_cargo # or ./target/debug/hello_cargo si no fuese Windows
 ```
-Genera el ejecutable en `target/debug`
+
 
 O para hacerlo todo en una linea:
 
@@ -73,4 +82,33 @@ Si se quiere agregar una dependencia:
 [dependencies]
 rand = "0.8.5" # Siendo 0.8.5 la versión de la dependencia
 ```
+
+Si corremos `cargo build`, va a descargar todas las dependencias
+
+Si lo corremos nuevamente, ya estarán instaladas, por lo que no va a descargar ninguna.
+
+Si quisiéramos actualizar y buscar si hay una nueva versión que satisfaga nuestras especificaciones del archivo `.toml`, entonces se debería correr:
+```toml
+cargo update
+```
+
+Para obtener números random (o pseudo random):
+```
+rand::thread_rng().gen_range(1..=100);
+```
+
+
+## Rust variables
+
+Para comparar números:
+```rust
+match guess.cmp(&number) {
+	Ordering::Less => println!("Too small!"),
+    Ordering::Greater => println!("Too big!"),
+    Ordering::Equal => println!("You win!"),
+    }
+}
+```
+
+Pero, number tiene que ser de tipo númerico para funcionar
 
