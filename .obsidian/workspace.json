@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLP/Para que sirve paradigmas.md",
+                "file": "PLP/Programación funcional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Para que sirve paradigmas"
+              "title": "Programación funcional"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "8f67a9aa6afbb34d",
   "lastOpenFiles": [
-    "PLP/Programación funcional.md",
+    "Pasted image 20250714222113.png",
     "PLP/Para que sirve paradigmas.md",
+    "PLP/Programación funcional.md",
     "Industria/Docker/Virtual machine vs virtualization.md",
     "Industria/Docker/Docker.md",
     "Industria/Docker",
@@ -211,7 +212,6 @@
     "Rust/Rust.md",
     "Rust/Loops.md",
     "Rust/Ifs.md",
-    "Rust/Funciones.md",
     "Rust",
     "Haskell",
     "Pasted image 20250707110436.png",
