@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5aea56302263564b",
+        "id": "f8f8a80e3561c09b",
         "type": "tabs",
         "children": [
           {
-            "id": "8f67a9aa6afbb34d",
+            "id": "7dbf9c4e64786a33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PLP/Programación funcional.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Programación funcional"
+              "title": "New tab"
             }
           }
         ]
@@ -179,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f67a9aa6afbb34d",
+  "active": "7e3019b88b28232b",
   "lastOpenFiles": [
     "Pasted image 20250714222113.png",
     "PLP/Para que sirve paradigmas.md",
