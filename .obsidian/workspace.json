@@ -11,13 +11,46 @@
             "id": "3d43b50ec2d31693",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PLP/Deducción natural en lógica proposicional.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Deducción natural en lógica proposicional"
+            }
+          },
+          {
+            "id": "6f830b0c1d0ea506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLP/Calculo lambda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calculo lambda"
+            }
+          },
+          {
+            "id": "f99a2bcee3619ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLP/Demostración NK sii valuación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Demostración NK sii valuación"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,44 +208,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d43b50ec2d31693",
+  "active": "6f830b0c1d0ea506",
   "lastOpenFiles": [
-    "PLP/Tipos de datos algebraicos.md",
+    "PLP/Deducción natural en lógica proposicional.md",
+    "PLP/Demostración NK sii valuación.md",
+    "Demostración NK sii valuación.md",
     "PLP/Razonamiento ecuacional.md",
+    "PLP/Programación orientada a objetos.md",
+    "PLP/Programación lógica.md",
+    "PLP/Programación funcional.md",
+    "PLP/Para que sirve paradigmas.md",
+    "PLP/Lógica de 1er orden.md",
+    "Rust/String.md",
+    "Demostración.md",
+    "Markmaking.md",
+    "Pasted image 20250707110247.png",
+    "Pasted image 20250715155035.png",
+    "Pasted image 20250715155015.png",
+    "Pasted image 20250715122547.png",
+    "PLP/Tipos de datos algebraicos.md",
     "PLP/Inferencia de tipos.md",
     "PLP/Inducción estructural.md",
     "PLP/Esquemas de recursión.md",
     "Untitled.md",
-    "PLP/Programación funcional.md",
-    "PLP/Programación lógica.md",
     "Pasted image 20250714222113.png",
-    "PLP/Para que sirve paradigmas.md",
     "Industria/Docker/Virtual machine vs virtualization.md",
     "Industria/Docker/Docker.md",
     "Industria/Docker",
-    "PLP/Programación orientada a objetos.md",
     "PLP/SLD.md",
     "PLP/Resolución lógica.md",
-    "PLP/Lógica de 1er orden.md",
     "PLP/Correspondencia de Curry-Howard.md",
     "PLP/Interpretes.md",
     "PLP/Calculo lambda.md",
     "Untitled",
     "PLP",
-    "Markmaking.md",
     "Dibujos/Agarrar las herramientas.md",
     "Rust/Struct.md",
     "Dibujos",
-    "Markdown sintaxis.md",
-    "Rust/Ownership.md",
     "Pasted image 20250712111347.png",
-    "String.md",
-    "Rust/Rust.md",
-    "Rust/Loops.md",
     "Rust",
     "Haskell",
     "Pasted image 20250707110436.png",
-    "Pasted image 20250707110247.png",
     "Industria/AWS",
     "Industria/Kubernetes",
     "Pasted image 20250706152848.png",
