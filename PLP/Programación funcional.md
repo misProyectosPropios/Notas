@@ -166,3 +166,17 @@ filter p (x : xs) = if p x
 					else filter p xs
 ```
 
+
+
+### Notación lambda
+Una expresión de la forma:
+```haskell
+\x -> e
+```
+representa una función que recibe un parámetro x y devuelve e.
+
+Notación:
+```haskell
+(\ x1 x2 ... xn -> e) ≡ (\ x1 -> (\ x2 -> ... (\ xn -> e)))
+```
+
