@@ -92,14 +92,27 @@ Las **derivaciones NJ** se pueden entender como **programas**. Es la base de la 
 ## Semántica bivaluada
 
 ### Valuaciones
+
 Una valuación es una función $v : P \rightarrow \{V, F\}$  que asigna valores de verdad a las variables proposicionales.
 
 Una valuación v satisface una formula τ si v ⊨ τ , donde:
-![[Pasted image 20250715155035.png]]
 
-# TODO: pasarlo a markdown
+Una valuación es una función $v : \mathcal{P} \to \{ \mathbb{V}, \mathbb{F} \}$ que asigna valores de verdad a las variables proposicionales.
+
+Una valuación *v* satisface una fórmula $\tau$ si $v \vDash \tau$ donde:
 
 
+$v \vDash P \qquad \text{si y sólo si } v(P) = \mathbb{V}$  
+$v \vDash \tau \land \sigma \qquad \qquad \text{si y sólo si } v \vDash \tau \text{ y } v \vDash \sigma$  
+$v \vDash \tau \to \sigma \qquad \text{si y sólo si } v \nvDash \tau \text{ o } v \vDash \sigma$
+$v \vDash \tau \lor \sigma \qquad \text{si y sólo si } v \vDash \tau \text{ o } v \vDash \sigma$
+$v \vDash \bot \qquad \text{nunca vale}$ 
+$v \vDash \neg \tau \qquad \text{si y sólo si } v \nvDash \tau$
+
+
+Una valuación *v* satisface un contexto $\Gamma$ (notación: $v \vDash \Gamma$ )  si y sólo si  v satisface a todas las fórmulas de  $\Gamma$
+
+Un contexto $\Gamma$ satisface una fórmula $\tau$ (notación: $\Gamma \vDash \tau$ ) si y sólo si cualquier valuación *v*  que satisface a  $\Gamma$  también satisface a $\tau$.
 ### Corrección y completitud
 
 Son equivalentes:
