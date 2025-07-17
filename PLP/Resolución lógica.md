@@ -1,7 +1,12 @@
 ## Prolog
 
-### Programa
+Prolog opera con términos de primer orden:
 
+Las fórmulas atómicas son de la forma $pred(t_1, \dots , t_n)$
+#### Programa
+Un programa es un conjunto de reglas. Cada regla es de la forma
+
+$$\sigma \text{ :- } \tau_1, \dots , \tau_n.$$
 #### Consulta
 
 

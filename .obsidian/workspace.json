@@ -1,14 +1,56 @@
 {
   "main": {
-    "id": "c355bdf137439702",
+    "id": "bb89f85e90d7b2aa",
     "type": "split",
     "children": [
       {
-        "id": "ebf7006161af9e3f",
+        "id": "fb1b2257e5280194",
         "type": "tabs",
         "children": [
           {
-            "id": "5f2af8556af5211c",
+            "id": "5784c6e3dd603149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLP/Lógica de 1er orden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lógica de 1er orden"
+            }
+          },
+          {
+            "id": "87d718dba223a592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLP/Relación SLD con Prolog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relación SLD con Prolog"
+            }
+          },
+          {
+            "id": "8d03da524cf09cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLP/Resolución lógica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resolución lógica"
+            }
+          },
+          {
+            "id": "f1d1509ea29b9c8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,22 +62,37 @@
               "icon": "lucide-file",
               "title": "Inferencia de tipos"
             }
+          },
+          {
+            "id": "f9ec15f20465c632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLP/Programación lógica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programación lógica"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bdeff362b8711549",
+    "id": "aa8b0fe1be82876b",
     "type": "split",
     "children": [
       {
-        "id": "2b4c65b86abb0d40",
+        "id": "f60cb5cb60b2c178",
         "type": "tabs",
         "children": [
           {
-            "id": "49034732c9ca3fd8",
+            "id": "4b2d4aa1f77ee5e7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +105,7 @@
             }
           },
           {
-            "id": "422370efc55013b4",
+            "id": "8e741cfbef48ee83",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +122,7 @@
             }
           },
           {
-            "id": "25dd780d873d130a",
+            "id": "3fed1c9c8f8a08f2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +138,20 @@
     "width": 300
   },
   "right": {
-    "id": "33440e89e25c8a1f",
+    "id": "523aab755e2f3dfa",
     "type": "split",
     "children": [
       {
-        "id": "db35ffcaedb77f28",
+        "id": "e6b8a78871cc5f32",
         "type": "tabs",
         "children": [
           {
-            "id": "174af4338acac92c",
+            "id": "cfdba046c6b11757",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LogicaYComputabilidad/PrimeraClase.md",
+                "file": "PLP/Resolución lógica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +161,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PrimeraClase"
+              "title": "Backlinks for Resolución lógica"
             }
           },
           {
-            "id": "4b5ab06341f24795",
+            "id": "2530d0685aec41f2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hola.md",
+                "file": "PLP/Resolución lógica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hola"
+              "title": "Outgoing links from Resolución lógica"
             }
           },
           {
-            "id": "614df56c0f7e9711",
+            "id": "86d3d5a83a3ad4d7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +194,22 @@
             }
           },
           {
-            "id": "7702ab14673bba57",
+            "id": "b81e804b59419c3e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "hola.md",
+                "file": "PLP/Resolución lógica.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hola"
+              "title": "Outline of Resolución lógica"
             }
           },
           {
-            "id": "7e3019b88b28232b",
+            "id": "0178084bd647b8f7",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,54 +236,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f2af8556af5211c",
+  "active": "8d03da524cf09cb4",
   "lastOpenFiles": [
-    "PLP/SLD.md",
-    "PLP/Prolog's cut.md",
     "PLP/Relación SLD con Prolog.md",
-    "PLP/Resolución lógica.md",
     "PLP/Lógica de 1er orden.md",
-    "PLP/Inferencia de tipos.md",
-    "Industria/Docker/Images vs Containers.md",
-    "Industria/Docker/Virtual machine vs virtualization.md",
-    "Industria/Docker/Docker.md",
-    "PLP/Demostración NK sii valuación.md",
-    "PLP/Deducción natural en lógica proposicional.md",
-    "PLP/Calculo lambda.md",
-    "Pasted image 20250715195554.png",
-    "Pasted image 20250715195521.png",
-    "Pasted image 20250715195252.png",
-    "Pasted image 20250715195243.png",
-    "Pasted image 20250715195214.png",
-    "Pasted image 20250715195147.png",
-    "Pasted image 20250715195057.png",
-    "Pasted image 20250715195044.png",
-    "Pasted image 20250715193228.png",
-    "Pasted image 20250715193223.png",
-    "Demostración NK sii valuación.md",
-    "PLP/Razonamiento ecuacional.md",
-    "PLP/Programación orientada a objetos.md",
+    "Pasted image 20250716233403.png",
+    "Pasted image 20250716232847.png",
+    "Pasted image 20250716232836.png",
     "PLP/Programación lógica.md",
-    "PLP/Programación funcional.md",
-    "PLP/Para que sirve paradigmas.md",
-    "Rust/String.md",
-    "Demostración.md",
-    "Markmaking.md",
-    "PLP/Tipos de datos algebraicos.md",
-    "PLP/Inducción estructural.md",
-    "PLP/Esquemas de recursión.md",
-    "Untitled.md",
-    "Industria/Docker",
-    "PLP/Correspondencia de Curry-Howard.md",
-    "Untitled",
-    "PLP",
-    "Dibujos",
-    "Rust",
-    "Haskell",
-    "Industria/AWS",
-    "Industria/Kubernetes",
-    "Industria/Spring",
-    "Industria",
-    "Untitled.canvas"
+    "PLP/Inferencia de tipos.md"
   ]
 }
