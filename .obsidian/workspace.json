@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "64ed1d93497b3617",
+        "id": "22bca0d6e2f2ccf2",
         "type": "tabs",
         "children": [
           {
-            "id": "2feff4669c1b4ae4",
+            "id": "9547ad48b96b2c82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown sintaxis.md",
+                "file": "Trabajo final eci.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown sintaxis"
-            }
-          },
-          {
-            "id": "b022481afc861c59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PLP/SLD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SLD"
-            }
-          },
-          {
-            "id": "f41623f4d8f1fe3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PLP/Relación SLD con Prolog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Relación SLD con Prolog"
+              "title": "Trabajo final eci"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLP/Relación SLD con Prolog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Relación SLD con Prolog"
+              "title": "Backlinks"
             }
           },
           {
@@ -142,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLP/Relación SLD con Prolog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Relación SLD con Prolog"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLP/Relación SLD con Prolog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Relación SLD con Prolog"
+              "title": "Outline"
             }
           },
           {
@@ -208,29 +176,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f41623f4d8f1fe3b",
+  "active": "9547ad48b96b2c82",
   "lastOpenFiles": [
+    "Trabajo final eci.md",
+    "Industria/Docker/Create own images.md",
+    "Industria/Docker/Docker Registries.md",
+    "Industria/Docker/docker run.md",
+    "Industria/Docker/Correr una imagen de Docker.md",
+    "Industria/Docker/Docker desktop.md",
+    "Industria/Docker/Docker.md",
+    "Industria/Docker/docker ps.md",
+    "Industria/Docker/Images vs Containers.md",
+    "Industria/Docker/Virtual machine vs virtualization.md",
+    "Industria/Docker/Container port vs host port.md",
+    "PLP/Tipos de datos algebraicos.md",
+    "PLP/Programación funcional.md",
+    "PLP/Calculo lambda.md",
+    "Untitled.canvas",
+    "2025-07-17.md",
+    "PLP/Programación orientada a objetos.md",
+    "Markdown sintaxis.md",
+    "PLP/Demostración NK sii valuación.md",
     "PLP/SLD.md",
+    "PLP/Resolución lógica.md",
+    "PLP/Relación SLD con Prolog.md",
+    "PLP/Razonamiento ecuacional.md",
+    "PLP/Prolog's cut.md",
+    "PLP/Programación lógica.md",
+    "PLP/Para que sirve paradigmas.md",
+    "PLP/Lógica de 1er orden.md",
     "Pasted image 20250717205329.png",
     "Pasted image 20250717204850.png",
     "Pasted image 20250717204838.png",
-    "Markdown sintaxis.md",
-    "PLP/Relación SLD con Prolog.md",
-    "PLP/Resolución lógica.md",
-    "PLP/Deducción natural en lógica proposicional.md",
-    "PLP/Programación lógica.md",
-    "PLP/Programación orientada a objetos.md",
-    "PLP/Prolog's cut.md",
-    "PLP/Razonamiento ecuacional.md",
-    "PLP/Tipos de datos algebraicos.md",
-    "PLP/Inferencia de tipos.md",
-    "PLP/Inducción estructural.md",
-    "PLP/Esquemas de recursión.md",
-    "PLP/Demostración NK sii valuación.md",
-    "PLP/Calculo lambda.md",
     "Pasted image 20250715155035.png",
-    "PLP/Interpretes.md",
-    "PLP/Lógica de 1er orden.md",
     "Pasted image 20250716233403.png",
     "Pasted image 20250716232847.png",
     "Pasted image 20250716232836.png"

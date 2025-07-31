@@ -17,3 +17,6 @@ Desde una imagen, se pueden crear múltiples containers.
 
 ## Crear images:
 
+Existen [[Docker Registries]] 
+
+## Y como hacemos para [[Correr una imagen de Docker]]?
