@@ -402,13 +402,13 @@ Admitted.
 Search "isaprop".
 
 Theorem prop_commutes_Π {A : UU} {B : A → UU} (p : ∏ x : A, isaprop (B x)) : isaprop (∏ x : A, (B x)).
-Proof.
+apply prop_thm.
 intro.
 intro.
-simpl.
-unfold iscontr.
-use tpair.
-Admitted.
+apply funextsec.
+intro z.
+apply p.
+Defined.
 
 (* Exercise 9 *)
 
