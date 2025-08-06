@@ -379,3 +379,101 @@ Theorem prop_equiv_to_log_equiv (P Q : hProp) : (P ≃ Q) <-> (P <-> Q).
 Proof.
 Admitted.
 ```
+
+
+
+```
+About isaprop.
+(* Exercise 7 *)
+
+(* isaprop is defined differently in UniMath than we defined in lectures. Show that these two definitions are the the same. *)
+
+(* Note that this is the hardest exercise, but the ones following depend on it. Feel free to leave it admitted and use the result without proof in the following exercises. *)
+
+Theorem prop_thm {P : UU} : isaprop P <-> (∏ x y : P, x = y).
+(* The different definitions of isaprop are logically equivalent. *)
+Proof.
+Admitted.
+
+(* Exercise 8 *)
+
+(* Show that the dependent product type former commutes with `isaprop`.*)
+
+Search "isaprop".
+
+Theorem prop_commutes_Π {A : UU} {B : A → UU} (p : ∏ x : A, isaprop (B x)) : isaprop (∏ x : A, (B x)).
+Proof.
+intro.
+intro.
+simpl.
+unfold iscontr.
+use tpair.
+Admitted.
+
+(* Exercise 9 *)
+
+(* Show that isweq f is a proposition. *)
+
+(* Use ~isapropisofhlevel~ from the library. *)
+
+Search "impred_isaprop".
+Search "isapropisofhlevel".
+
+Theorem isweq_is_prop {A B : UU} (f : A → B) : isaprop (isweq f).
+Proof.
+apply impred_isaprop.
+intro.
+change (isaprop (isofhlevel 0 (hfiber f t))).
+use isapropisofhlevel.
+Defined.
+(* Exercise 10 *)
+
+(* You are allowed to use isweq_iso from the library in this proof: it says if f is a quasiequivalence, then f is an equivalence in that sense.*)
+
+Theorem prop_equiv_to_log_equiv2 (P Q : hProp) : (P ≃ Q) <-> (P <-> Q).
+(* An equivalence between propositions is (logically equivalent to) a logical equivalence. *)
+Proof.
+split.
+- intro X_equiv_Q.
+  split.
++ intro p.
+  induction X_equiv_Q.
+  simpl isweq in pr2.
+  set (e := pr1 p).
+  exact e.
++ intro q.
+  induction X_equiv_Q as [f is_weq_f].
+  simpl isweq in is_weq_f.
+  admit. 
+- intro.
+  induction X.
+  destruct e as [f Hf].
+
+Admitted.
+
+Search "isweq_iso".
+About isweq.
+About hProp.
+Theorem prop_equiv_to_log_equiv (P Q : hProp) : (P ≃ Q) <-> (P <-> Q).
+(* An equivalence between propositions is (logically equivalent to) a logical equivalence. *)
+Proof.
+split.
+- intro.
+  split.
++ intro Y.
+  induction X.
+  simpl isweq in pr2.
+  set (e := pr1 Y).
+  exact e.
++ intro Y.
+  induction X_equiv_Q as [f is_weq_f].
+  -
+  admit. 
+- intro.
+  induction X.
+  destruct e as [f Hf].
+
+Admitted.
+
+
+```
