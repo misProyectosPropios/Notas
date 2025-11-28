@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1a6c19306bb4c5c5",
+        "id": "958bd95cd1083475",
         "type": "tabs",
         "children": [
           {
-            "id": "bcd1bca15af92506",
+            "id": "86010a1a5ff0432b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aleman/Símbolos para copiar.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Símbolos para copiar"
-            }
-          },
-          {
-            "id": "2b7a34d7a6445b83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aleman/Kennenlernfragen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kennenlernfragen"
-            }
-          },
-          {
-            "id": "27061351acda0e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aleman/Zahl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zahl"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,16 +173,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b7a34d7a6445b83",
+  "active": "86010a1a5ff0432b",
   "lastOpenFiles": [
+    "_template/Kapitel.md",
+    "_template",
     "Aleman/Zahl.md",
+    "Haskell/Tips.md",
+    "Aleman/Wochentage.md",
+    "Aleman/Practice/Sechste Kapitel.md",
+    "Aleman/Practice/Fünfthe Kapitel.md",
+    "Aleman/Practice/Vierte Kapitel.md",
+    "Aleman/Practice/Dritte Kapitel.md",
+    "Aleman/Practice/Zweite Kapitel.md",
+    "Aleman/Practice/Erste Kapitel.md",
+    "Aleman/Practice",
+    "Aleman/Hobbies.md",
+    "Aleman/Símbolos para copiar.md",
+    "Haskell/Sintaxis.md",
     "Aleman/Kennenlernfragen.md",
     "Aleman/Essen.md",
     "Aleman/Vokabular.md",
     "Aleman/Monat(e).md",
     "Aleman/Begrüßung.md",
     "Aleman/Pronombres.md",
-    "Aleman/Símbolos para copiar.md",
     "Trabajo final eci.md",
     "Aleman",
     "2025-07-17.md",
@@ -226,7 +206,6 @@
     "Industria/Docker/Mooc.md",
     "Industria/Docker/Commands.md",
     "Industria/Docker/Correr una imagen de Docker.md",
-    "Industria/Docker/docker run.md",
     "Industria/Docker/Images/wEROeT3XvDcLBcPIsxcPN51fxgKZtH.png",
     "Pasted image 20250716233403.png",
     "Pasted image 20250717204838.png",
@@ -235,17 +214,7 @@
     "Pasted image 20250715155035.png",
     "Pasted image 20250707110436.png",
     "Industria/Docker/Images",
-    "Markdown sintaxis.md",
-    "Markmaking.md",
-    "Industria/Blockchain/Blockchain.md",
     "Industria/Blockchain",
-    "Industria/Docker/Create own images.md",
-    "Industria/Docker/Docker Registries.md",
-    "Industria/Docker/Docker desktop.md",
-    "Industria/Docker/Docker.md",
-    "Industria/Docker/docker ps.md",
-    "Industria/Docker/Images vs Containers.md",
-    "Industria/Docker/Virtual machine vs virtualization.md",
     "Untitled.canvas",
     "Pasted image 20250716232847.png"
   ]
