@@ -14,7 +14,15 @@
 	- My name is: Meine name ist name
 ### How are you?
 - Question: Wie geht's?
-- Answer: Gut / Mit geht es gut.
+- Answer: 
+	- 😊😊 Danke, sehr gut
+	- 😊 Danke, gut / Mit geht es gut
+	- 😐 Ganz gut (use it when you know the people)
+	- 😐 Es geht
+	- 😞Schlegt
+### Everything good?
++ Question: Alles klar?
++ Answer: Ja! / Nein
 ### Where are you from?
 - Question: Woher kommst du (denn) ?
 - Answer: Ich komme aus France aus (country)
