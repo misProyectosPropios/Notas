@@ -12,28 +12,21 @@
 | Egg                   | Ei         |
 | Bread roll            | Brötchen   |
 
-## Frühct
+Abendessen
 
-| English               | German     |
-| --------------------- | ---------- |
+## Frühct / Fruit
 
-## Mittagessen
+#TODO add more Frücht
 
-|English|German|
-|---|---|
-|Apple juice|der Apfelsaft|
-|Potato|die Kartoffeln|
-|Salt|das Salz|
-|Pepper|der Pfeffer|
-|Vegetables|das Gemüse|
-|Water|das Wasser|
-|Vinegar|der Essig|
-|Oil|das Öl|
-|Cola|die Cola|
-|Meat|das Fleisch|
-|Cheese|der Käse|
+| English | German |
+| ------- | ------ |
+|         |        |
+|         |        |
+## Mittagessen / Lunch
 
-## Nachtisch  
+
+
+## Nachtisch  / Dessert
 
 |English|German|
 |---|---|
@@ -43,7 +36,13 @@
 |Chocolate|die Schokolade|
 |Cookie|der Keksla|
 |Sugar|der Zucker|
+## Abendessen / Dinner
 
+
+| English | German |
+| ------- | ------ |
+|         |        |
+|         |        |
 ## Diverse 
 
 | English  | German       |
@@ -56,4 +55,9 @@
 | Soup     | die Suppe    |
 | Sausage  | die Wurst    |
 | Jam      | der Schinken |
-## Gemüse
+## Gemüse / vegetables
+
+
+| English | German |
+| ------- | ------ |
+|         |        |
