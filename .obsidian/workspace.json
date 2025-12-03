@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aleman/Kennenlernfragen.md",
+                "file": "Aleman/Zahl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kennenlernfragen"
+              "title": "Zahl"
             }
           }
         ]
@@ -179,9 +179,9 @@
   },
   "active": "86010a1a5ff0432b",
   "lastOpenFiles": [
+    "Aleman/Kennenlernfragen.md",
     "Aleman/Modalverben.md",
     "Aleman/Monat(e) - Months.md",
-    "Aleman/Kennenlernfragen.md",
     "Aleman/Essen.md",
     "Aleman/Practice/Vierte Kapitel.md",
     "Aleman/Vokabular.md",
