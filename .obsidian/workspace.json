@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aleman/Zahl.md",
+                "file": "Aleman/Modalverben.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zahl"
+              "title": "Modalverben"
             }
           }
         ]
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +179,18 @@
   },
   "active": "86010a1a5ff0432b",
   "lastOpenFiles": [
+    "Aleman/Akkusative.md",
+    "Aleman/Zeitangaben (Time Expressions).md",
+    "Aleman/Zahl.md",
+    "Aleman/Wochentage.md",
+    "Aleman/Vokabular.md",
+    "Aleman/Símbolos para copiar.md",
+    "Aleman/Possesive articles.md",
+    "Aleman/Monat(e) - Months.md",
     "Aleman/Kennenlernfragen.md",
     "Aleman/Modalverben.md",
-    "Aleman/Monat(e) - Months.md",
     "Aleman/Essen.md",
     "Aleman/Practice/Vierte Kapitel.md",
-    "Aleman/Vokabular.md",
-    "Aleman/Possesive articles.md",
-    "Aleman/Zeitangaben (Time Expressions).md",
     "Aleman/Theory/4. Vier Kapitel.md",
     "Aleman/Theory/5. Fünf Kapitel.md",
     "Aleman/Theory/6. Sechs Kapitel.md",
@@ -196,18 +200,14 @@
     "Aleman/Begrüßung.md",
     "_template/Kapitel.md",
     "_template",
-    "Aleman/Zahl.md",
     "Haskell/Tips.md",
-    "Aleman/Wochentage.md",
     "Aleman/Practice/Sechste Kapitel.md",
     "Aleman/Practice/Fünfthe Kapitel.md",
     "Aleman/Practice/Zweite Kapitel.md",
     "Aleman/Practice/Erste Kapitel.md",
     "Aleman/Practice",
-    "Aleman/Símbolos para copiar.md",
     "Haskell/Sintaxis.md",
     "Aleman/Pronombres.md",
-    "Trabajo final eci.md",
     "Aleman",
     "Pasted image 20250715155015.png",
     "Pasted image 20250707110247.png",
