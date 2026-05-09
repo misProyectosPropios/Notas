@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86010a1a5ff0432b",
+            "id": "f2739cd10cfbf228",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aleman/Modalverben.md",
+                "file": "Ciberseguridad/Arquitectura de Ciberseguridad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modalverben"
+              "title": "Arquitectura de Ciberseguridad"
+            }
+          },
+          {
+            "id": "3174b8cd2777924b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Data Analytics Certificate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Analytics Certificate"
+            }
+          },
+          {
+            "id": "f9c2a117ee7e227a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Data Analytics Certificate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Analytics Certificate"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "523aab755e2f3dfa",
@@ -177,8 +207,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86010a1a5ff0432b",
+  "active": "f9c2a117ee7e227a",
   "lastOpenFiles": [
+    "Ciberseguridad/Arquitectura de Ciberseguridad.md",
+    "Data/Data Analytics Certificate.md",
+    "Data",
+    "Ciberseguridad/Seguridad en la nube.md",
+    "Trabajo final eci.md",
+    "Ciberseguridad",
+    "PLP/Prolog's cut.md",
+    "Aleman/Modalverben.md",
     "Aleman/Akkusative.md",
     "Aleman/Zeitangaben (Time Expressions).md",
     "Aleman/Zahl.md",
@@ -188,7 +226,6 @@
     "Aleman/Possesive articles.md",
     "Aleman/Monat(e) - Months.md",
     "Aleman/Kennenlernfragen.md",
-    "Aleman/Modalverben.md",
     "Aleman/Essen.md",
     "Aleman/Practice/Vierte Kapitel.md",
     "Aleman/Theory/4. Vier Kapitel.md",
@@ -202,12 +239,7 @@
     "_template",
     "Haskell/Tips.md",
     "Aleman/Practice/Sechste Kapitel.md",
-    "Aleman/Practice/Fünfthe Kapitel.md",
-    "Aleman/Practice/Zweite Kapitel.md",
-    "Aleman/Practice/Erste Kapitel.md",
     "Aleman/Practice",
-    "Haskell/Sintaxis.md",
-    "Aleman/Pronombres.md",
     "Aleman",
     "Pasted image 20250715155015.png",
     "Pasted image 20250707110247.png",
