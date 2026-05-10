@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "958bd95cd1083475",
+        "id": "ff0a2f8e831ffd0b",
         "type": "tabs",
         "children": [
           {
-            "id": "f2739cd10cfbf228",
+            "id": "6c939d19caaf7408",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Arquitectura de Ciberseguridad.md",
+                "file": "Data/Data informs better decisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitectura de Ciberseguridad"
+              "title": "Data informs better decisions"
             }
           },
           {
-            "id": "3174b8cd2777924b",
+            "id": "60f2d41bc57826e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Data Analytics Certificate.md",
+                "file": "Ciberseguridad/Ciberseguridad en la red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Analytics Certificate"
-            }
-          },
-          {
-            "id": "f9c2a117ee7e227a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Data Analytics Certificate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Analytics Certificate"
+              "title": "Ciberseguridad en la red"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,12 +193,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9c2a117ee7e227a",
+  "active": "60f2d41bc57826e8",
   "lastOpenFiles": [
-    "Ciberseguridad/Arquitectura de Ciberseguridad.md",
+    "Data/Skill sets neccesary.md",
     "Data/Data Analytics Certificate.md",
-    "Data",
+    "Data/Data informs better decisions.md",
+    "Ciberseguridad/Ciberseguridad en la red.md",
     "Ciberseguridad/Seguridad en la nube.md",
+    "Pasted image 20250714222113.png",
+    "Pasted image 20250707110247.png",
+    "Ciberseguridad/Arquitectura de Ciberseguridad.md",
+    "Ciberseguridad/assets/typesOfCloudComputing.png",
+    "Ciberseguridad/assets",
+    "Data",
     "Trabajo final eci.md",
     "Ciberseguridad",
     "PLP/Prolog's cut.md",
@@ -235,24 +228,18 @@
     "Aleman/Theory",
     "Aleman/Hobbies.md",
     "Aleman/Begrüßung.md",
-    "_template/Kapitel.md",
     "_template",
-    "Haskell/Tips.md",
-    "Aleman/Practice/Sechste Kapitel.md",
     "Aleman/Practice",
     "Aleman",
     "Pasted image 20250715155015.png",
-    "Pasted image 20250707110247.png",
     "Industria/Docker/Images/wEROeT3XvDcLBcPIsxcPN51fxgKZtH.png",
     "Pasted image 20250716233403.png",
     "Pasted image 20250717204838.png",
     "Pasted image 20250717204850.png",
     "Pasted image 20250717205329.png",
     "Pasted image 20250715155035.png",
-    "Pasted image 20250707110436.png",
     "Industria/Docker/Images",
     "Industria/Blockchain",
-    "Untitled.canvas",
-    "Pasted image 20250716232847.png"
+    "Untitled.canvas"
   ]
 }
